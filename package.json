@@ -1,0 +1,28 @@
+{
+  "name": "hiwn-uid",
+  "description": "Generate semi-random unique something with give prefix.",
+  "version": "0.0.1",
+  "author": "Mushex Antaranian",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hiwn/uid.git"
+  },
+  "scripts": {
+    "prepublish": "make build",
+    "test": "make test"
+  },
+  "devDependencies": {
+    "component": "^1.0.0-rc5",
+    "mocha": "^1.20.1",
+    "jshint": "^2.5.1",
+    "jshint-stylish": "^0.2.0",
+    "phantomjs": "^1.9.7-8",
+    "mocha-phantomjs": "^3.4.1",
+    "uglify-js": "^2.4.14"
+  },
+  "dependencies": {}
+}
