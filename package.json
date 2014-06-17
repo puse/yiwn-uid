@@ -1,5 +1,5 @@
 {
-  "name": "hiwn-uid",
+  "name": "yiwn-uid",
   "description": "Generate semi-random unique something with give prefix.",
   "version": "0.0.1",
   "author": "Mushex Antaranian",
@@ -9,7 +9,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/hiwn/uid.git"
+    "url": "http://github.com/yiwn/uid.git"
   },
   "scripts": {
     "prepublish": "make build",
@@ -24,5 +24,17 @@
     "mocha-phantomjs": "^3.4.1",
     "uglify-js": "^2.4.14"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/yiwn/uid/issues"
+  },
+  "homepage": "https://github.com/yiwn/uid",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "uid",
+    "yiwn"
+  ],
+  "license": "MIT"
 }

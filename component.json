@@ -1,10 +1,10 @@
 {
   "name": "uid",
-  "repo": "hiwn/uid",
+  "repo": "yiwn/uid",
   "description": "Generate semi-random unique something with give prefix.",
   "version": "0.0.1",
   "keywords": [
-    "hiwn",
+    "yiwn",
     "uid"
   ],
   "dependencies": {},
