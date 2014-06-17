@@ -4,11 +4,11 @@ Simple prefixed unique ID generator.
 
 ## Installation
 
-Using [component]()
+Using [component](https://github.com/component/component)
 
     $ component install hiwn/uid
 
-Using [npm]() for [browserify]()
+Using [npm](http://npmjs.org/) for [browserify](http://browserify.org/)
 
     $ npm install hiwn-uid
 
@@ -39,6 +39,13 @@ uid('ns-', 6); // -> like 'ns-a14e22'
 uid(6); // -> like 'a14e22'
 ```
 
+## Test
+
+Run tests with [mocha-phantomjs](https://github.com/metaskills/mocha-phantomjs)
+
+    $ make test
+
 ## License
 
 The MIT License
+
