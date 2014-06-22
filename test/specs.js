@@ -1,6 +1,6 @@
-var expect = chai.expect;
+var expect = require('chai').expect;
 
-var uid = require('uid');
+var uid = require('../index.js');
 
 describe('UID', function(){
     it('should work with or without arguments', function(){

@@ -40,7 +40,7 @@ uid(6); // -> like 'a14e22'
 
 ## Test
 
-Run tests with [mocha-phantomjs](https://github.com/metaskills/mocha-phantomjs)
+Run tests with [mocha](http://visionmedia.github.io/mocha)
 
     $ make test
 
