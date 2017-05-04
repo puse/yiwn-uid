@@ -40,7 +40,7 @@ uid(6); // -> like 'a14e22'
 
 ## Test
 
-Run tests with [mocha](http://visionmedia.github.io/mocha)
+Run tests with [mocha](http://mochajs.org/)
 
     $ make test
 
